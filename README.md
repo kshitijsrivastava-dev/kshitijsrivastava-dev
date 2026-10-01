@@ -126,7 +126,7 @@ My primary focus is building a strong foundation in **software engineering, Java
 - Artificial Intelligence & Generative AI
 - React and modern web development
 - SQL and database concepts
-- Problem solving for technical interviews
+- Problem solving
 
 ---
 
