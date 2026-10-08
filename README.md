@@ -12,7 +12,7 @@ I enjoy turning ideas into usable products — from responsive web applications 
 
 ## 🚀 Featured Projects
 
-### 📰 SmartNews
+### 📰 [SmartNews](https://github.com/kshitijsrivastava-dev/smartnews)
 
 An AI-powered news aggregation and summarization platform that combines news APIs with generative AI to help users discover and understand current news.
 
@@ -22,17 +22,7 @@ An AI-powered news aggregation and summarization platform that combines news API
 
 ---
 
-### 🎯 PlacementOS
-
-A placement-preparation platform designed to bring DSA practice, aptitude preparation, resume readiness, mock interviews, roadmaps, goals, and performance analytics into one dashboard.
-
-**Tech:** React · TypeScript · Vite · Supabase · Tailwind CSS · Recharts · Vercel
-
-**Focus:** dashboard architecture · authentication · DSA tracking · analytics · responsive UI · product design
-
----
-
-### 💻 Next24Tech Internship
+### 💻 [Next24Tech Internship](https://github.com/kshitijsrivastava-dev/Next24Tech)
 
 Front-end development work completed during my internship at Next24tech Technology, including portfolio, e-commerce, and e-learning websites.
 
@@ -42,11 +32,13 @@ Front-end development work completed during my internship at Next24tech Technolo
 
 ---
 
-### 📊 Data & Analytics Projects
+### 🏦 [Banking Management System](https://github.com/kshitijsrivastava-dev/banking-management-system)
 
-Projects involving data analysis and extracting insights from datasets using programming, databases, spreadsheets, and visualization techniques.
+A console-based banking application built with Java, JDBC, and MySQL for managing customer accounts, deposits, withdrawals, transfers, and transaction history.
 
-**Focus:** Python · Pandas · SQL · Excel · Data Analysis · Data Visualization · Exploratory Data Analysis
+**Tech:** Java · JDBC · MySQL
+
+**Focus:** OOP · database transactions · DAO architecture · SQL · exception handling · PreparedStatement
 
 ---
 
